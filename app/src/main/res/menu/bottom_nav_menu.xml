@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/story"
+        android:icon="@drawable/story"
+        android:title="Story" />
+    <item
+        android:id="@+id/cityart"
+        android:icon="@drawable/premiu"
+        android:title="City Art" />
+    <item
+        android:id="@+id/placeholder"
+        android:title="" />
+    <item
+        android:id="@+id/tickets"
+        android:icon="@drawable/tickets"
+        android:title="Tickets" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/collection"
+        android:title="Profile" />
+</menu>

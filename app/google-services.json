@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232435169479",
+    "project_id": "art2go-c0a42",
+    "storage_bucket": "art2go-c0a42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232435169479:android:800d7d9f72dd122f0426e2",
+        "android_client_info": {
+          "package_name": "com.example.art2go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232435169479-s3ro0hqvanblo001nofcnavqhlmt7g8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ntfkVuZnFbDHbok6Kx4NH9hvAStvFiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232435169479-s3ro0hqvanblo001nofcnavqhlmt7g8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
